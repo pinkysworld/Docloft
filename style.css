@@ -1,4 +1,4 @@
-/* Ablagefuchs website: local fonts and warm app palette. No external dependencies. */
+/* Docloft website: local fonts and warm app palette. No external dependencies. */
 :root{color-scheme:light dark;--bg:#FFFCFA;--surface:#FFFFFF;--soft:#F6EEE8;--line:#DCC7BA;--ink:#2E2420;--muted:#68554B;--accent:#A84A22;--accent-h:#843919;--orange:#E07A45;--on-accent:#FFFFFF;--focus:#A84A22;--shadow:0 18px 44px rgba(46,36,32,.12)}
 @media(prefers-color-scheme:dark){:root{--bg:#211A17;--surface:#2E2420;--soft:#382A24;--line:#6F5547;--ink:#F6EEE8;--muted:#D6BDB0;--accent:#F4A77C;--accent-h:#FFC3A0;--orange:#E07A45;--on-accent:#2E2420;--focus:#F4A77C;--shadow:0 18px 44px rgba(0,0,0,.3)}}
 *{box-sizing:border-box}
